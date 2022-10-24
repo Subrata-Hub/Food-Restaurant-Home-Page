@@ -8,7 +8,7 @@
 >By Subrata
 
 -----
-#### Live Deployed Website : [here](https://streets-landingpage.netlify.app/)
+#### Live Deployed Website : [here](https://food-restaurant-homepage5.netlify.app/)
 
 ---
 ### What I learned from this Project?
@@ -19,7 +19,7 @@
 - I learned about background image property .
 
 ---
-#### How the website looks ike
+#### How the website looks like :
 ---
 
 ![](Project2.png)
